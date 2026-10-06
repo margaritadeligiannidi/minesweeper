@@ -39,7 +39,7 @@ The application includes a simple and intuitive graphical interface for navigati
 
 The main menu provides access to the game.
 
-![Minesweeper Main Menu](screenshots/main.png)
+<img src="screenshots/main.png" alt="Minesweeper Main Menu" width="400">
 
 ### 🎮 Game Board
 
