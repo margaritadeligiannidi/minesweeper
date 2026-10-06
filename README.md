@@ -45,25 +45,29 @@ The main menu provides access to the game.
 
 The main game board allows the player to reveal tiles, place flags, and keep track of the remaining mines. The player can also restart the game and change the difficulty level.
 
-![Minesweeper Game Board](screenshots/game.png)
+<img src="screenshots/game.png" alt="Minesweeper Main Menu" width="600">
+
 
 ### 🏆 Win Screen
 
 The win message is displayed when the player successfully reveals all safe tiles.
 
-![Minesweeper Win Screen](screenshots/win.png)
+<img src="screenshots/win.png" alt="Minesweeper Main Menu" width="600">
+
 
 ### 💥 Game Over
 
 The game-over message is displayed when the player reveals a tile containing a mine.
 
-![Minesweeper Game Over](screenshots/game-over.png)
+<img src="screenshots/game-over.png" alt="Minesweeper Main Menu" width="600">
+
 
 ### 📖 Rules & Controls
 
 The rules and controls section explains the objective of the game and the available actions, including left-click and right-click interactions.
 
-![Minesweeper Rules](screenshots/rules.png)
+<img src="screenshots/rules.png" alt="Minesweeper Main Menu" width="600">
+
 
 ## 🚀 Getting Started
 
